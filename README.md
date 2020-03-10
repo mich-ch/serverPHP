@@ -1,6 +1,10 @@
-# Portfolio and skills webpage
+# My Portfolio
+
+## Portfolio
+This project enables users to create a personal professional profile in order to highlight their potential
+
+## Target
 
 
-The purpose of this project is to create an online platform that enables the user to present their achievements and capabilities.
+## Instructions
 
-The goal is to make the process of finding the right person for the right place more creative and effective

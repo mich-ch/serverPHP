@@ -8,3 +8,11 @@ The goal of the project is to bring out the profiles of employees in order to fi
 
 ## Instructions
 
+1. Through the platform, candidates and but also employers can register in the system in separate databases.
+
+2. Candidates are given the opportunity to create their own profiles.
+    * They can upload their own personal photo.
+    * They have the ability to introduce their personal skills. Their representation is illustrated by a graph
+    * Add their professional experience if they have one
+
+ 

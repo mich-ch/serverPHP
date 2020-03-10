@@ -14,5 +14,10 @@ The goal of the project is to bring out the profiles of employees in order to fi
     * They can upload their own personal photo.
     * They have the ability to introduce their personal skills. Their representation is illustrated by a graph
     * Add their professional experience if they have one
+    * Their personal information
+    * The job they want to have
+
+3. For employers things are simpler. Entering the platform beyond corporate information is no longer mandatory.
+    * They can search the employee database, based on specific information such as age, specific skill, location, etc.
 
  
